@@ -14,7 +14,7 @@ colorama==0.3.7
 compizconfig-python==0.9.13.1
 configparser==3.5.1
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==3.2
 decorator==4.1.2
 defer==1.0.6
 dirspec==13.10
